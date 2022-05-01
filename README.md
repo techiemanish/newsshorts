@@ -1,3 +1,8 @@
+NewsShorts is an app for reading the world news. You can even search your news topics using our search news option. 
+
+Note: <b>This project will work only in local environment. I have used Free News API which could not be used in production build.</b><br/>
+<b>Please clone the repo in your local and do npm start.</b>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
